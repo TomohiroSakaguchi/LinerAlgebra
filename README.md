@@ -10,3 +10,5 @@ matplotlibでよく使われるやつを改めてまとめた https://qiita.com/
 Easy Copy MathJax https://easy-copy-mathjax.nakaken88.com/multiple-line-equations/
 
 pyplot で背景とグリッドに色を付ける - 中野智文のブログ http://nakano-tomofumi.hatenablog.com/entry/2018/07/20/203622
+
+jupyter notebookで画像を表示させたいだけならば、`IPython.display`モジュールのメソッドを使うべし https://qiita.com/knknkn1162/items/77999450c59db915ab87
