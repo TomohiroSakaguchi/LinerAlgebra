@@ -1,5 +1,9 @@
 # LinerAlgebra
 ## 線形代数をプログラミング実装して視覚化したい
+### 実行環境
+jupyter notebook上でPythonを用いて実装をしています．
+jupyter notebookおよびPythonの導入に関しましては近く他サイトを載っけます
+
 ### 教科書
 線形代数学　川久保勝夫著
 ### 参考にさせていただいたサイト
